@@ -22,10 +22,11 @@ This assignment focuses on elevating HTML5 skills by working with advanced conte
 - **No JavaScript**: Pure HTML5 and CSS3 implementation
 
 ## 📁 Project Structure
-plp-portfolio/
+Assignment 2/
 │── index.html # Main HTML file with full structure
 ├── styles.css # Complete CSS styling and animations
 ├── image/image/cocktail-refreshment-neo-futuristic-style.jpg # Product Showcase
 ├── README.md # This documentation file
 
 └── LICENSE # MIT License file
+
